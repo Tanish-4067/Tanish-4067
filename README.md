@@ -1,7 +1,5 @@
 # Hi 👋
 
-<!--
-**Tanish-4067/Tanish-4067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Computer Science. in BITS Pilani, Pilani campus.
 I am interested in Deep learning and Physics as whole. I also have fair knowledge of data structures and algorithms. My preferred programming languages are Python and C++
